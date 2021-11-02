@@ -8,4 +8,4 @@
 
 - Работаю с Webpack, Git, JS, Express, HTML, Css, React, Mongo.
 
-- Сейчас стоит подучить Redux и исправить проект Место и Movies-Explorer, много спаегтти-кода можно будет удалить
+- Сейчас стоит подучить Redux, Type-Script и исправить проект Место и Movies-Explorer, много спаегтти-кода можно будет удалить
