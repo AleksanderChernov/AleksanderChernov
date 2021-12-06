@@ -8,4 +8,4 @@
 
 - Инструментарий: Webpack, Git, HTML, MongoDB, Express.
 
-- Сейчас стоит подучить Redux + TypeScript + React и исправить проект Место и Movies-Explorer, много спагетти-кода можно будет удалить. Также планирую ознакомиться с продвинутой стилизацией:  SASS/LESS, Styled Components.
+- Сейчас стоит подучить Redux + TypeScript + React, axios, thunk и исправить проект Место и Movies-Explorer, много спагетти-кода можно будет удалить. Также планирую ознакомиться с продвинутой стилизацией:  SASS/LESS, Styled Components.
