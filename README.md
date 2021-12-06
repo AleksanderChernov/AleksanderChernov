@@ -6,6 +6,6 @@
 
 - Основной стек: React, TypeScript, Redux, React Router, CSS.
 
-- Инструментарий: Webpack, Git, TS, HTML, React, MongoDB, Express.
+- Инструментарий: Webpack, Git, HTML, MongoDB, Express.
 
 - Сейчас стоит подучить Redux + TypeScript + React и исправить проект Место и Movies-Explorer, много спагетти-кода можно будет удалить. Также планирую ознакомиться с продвинутой стилизацией:  SASS/LESS, Styled Components.
