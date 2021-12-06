@@ -6,7 +6,7 @@
 
 - Ну и конечно пытаюсь бороться с багами и спагетти-кодом, что раньше преследовали мои проекты (сейчас стало ощутимо лучше).
 
-- Инструментарий: Webpack, Git, TS, HTML, CSS-препроцессоры, React, MongoDB, Express.
+- Инструментарий: Webpack, Git, TS, HTML, React, MongoDB, Express.
 
 - Сейчас стоит подучить Redux + TypeScript, планирую ознакомиться с продвинутой стилизацией:  SASS/LESS, Styled Components.
 
